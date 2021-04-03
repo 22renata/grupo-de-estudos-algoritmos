@@ -1,0 +1,22 @@
+#Implement an algorithm to determine if a string has all unique characters.
+#What if you cannot use additional data structures? 
+
+
+def Is_unique(palavra):
+
+    return len(set(list(palavra))) == len(palavra)
+
+string=set("abracadabra")
+
+print(string)
+
+string=Is_unique("abracadabra")
+
+print("A string não possui caracteres repetidos?", string)
+
+
+print(string)
+
+string=Is_unique("abc")
+
+print("A string não possui caracteres repetidos?", string)
