@@ -1,2 +1,5 @@
 # grupo-de-estudos-algoritmos
-Grupo de Estudos de Algoritmos
+Repositorio com algoritmos para o [grupo de estudos do PyLadies Brasil](https://github.com/pyladies-brazil/grupo-de-estudos-de-algoritmos).
+
+
+
